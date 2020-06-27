@@ -243,16 +243,6 @@ df_age['age_mean'] = df_age['age_mean'].apply(lambda x: calculateMean(x))
 df_age['age_mean'].value_counts()
 ```
 
-    C:\Users\selva\anaconda3\lib\site-packages\ipykernel_launcher.py:17: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-    
-
-
-
-
     54.5    204764
     44.5    184918
     34.5    177016
@@ -374,10 +364,3 @@ not_admitted_and_died
 
 
     98820
-
-
-
-
-```python
-
-```
