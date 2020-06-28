@@ -16,6 +16,12 @@ death_yn | Did the patient die as a result of this illness? | Plain Text
 medcond_yn | Pre-existing medical conditions? | Plain Text
 onset_dt | Date of symptom onset | Date & Time
 
+## Inference
+
+* Except some most of the columns contain categorial data. So let us try to derive as much as information with the available numerical and categorial data.
+
+* Due to less numerical columns we cannot plot different types of plots like line, scatter and heat. So mostly we would be using histogram to identify the distribution of data.
+
 ## Data Analysis
 
 Let us try to ask below questions and try to derive some insights from the available data.
