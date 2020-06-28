@@ -18,7 +18,7 @@ onset_dt | Date of symptom onset | Date & Time
 
 ## Inference
 
-* Except some most of the columns contain categorial data. So let us try to derive as much as information with the available numerical and categorial data.
+* Except some, most of the columns contain categorial data. So let us try to derive as much as information with the available numerical and categorial data.
 
 * Due to less numerical columns we cannot plot different types of plots like line, scatter and heat. So mostly we would be using histogram to identify the distribution of data.
 
