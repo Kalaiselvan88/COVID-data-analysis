@@ -24,7 +24,7 @@ onset_dt | Date of symptom onset | Date & Time
 
 ## Data Analysis
 
-Let us try to ask below questions and try to derive some insights from the available data. Check inside [Detailed Analysis](Analysis/COVID-data-analysis.md) for more detailed analysis on below questions.
+Let us try to ask below questions and try to derive some insights from the available data. Check [here](Analysis/COVID-data-analysis.md) for more detailed analysis on below questions.
 
 1. Patients in which age group has been most affected ?
 
