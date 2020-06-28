@@ -225,7 +225,6 @@ df[(df['current_status'] == 'Probable Case') & (df['death_yn'] == 'Yes')].age_gr
 ```python
 # How has the death rate varied as age increases?
 # Let us try to create new age group column which is numeric in order to plot this
-import numpy as np
 df['age_mean'] = df['age_group'].apply(lambda x: x.replace(' Years','').replace('+',''))
 
 # Now let us remove the Unkown values from dataframe as it does not serve to answer our question here
